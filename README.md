@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @imisgsc
-- 👀 I’m interested in Cyber Secrity and Python
-- 🌱 I’m currently learning to develop small projects in Python
+- 👀 I’m interested in Cyber Security and Python
+- 💻I'm a budding Web Developer
+- 🌱 I’m currently learning to develop small projects in Python 
 - 📫 How to reach me linked in -  Simi Gracia Sunil Christopher
 
 <!---
