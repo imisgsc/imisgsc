@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pzaHp4anFtcWppbm1qZmQwNmp5amNqMDVwNnY4OTBhYzluNmpxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
-<h1 align="center">Hi 👋, I'm Simi Gracia Sunil Christopher</h1>
+<h1 align="center">Hi, I'm Simi Gracia Sunil Christopher</h1>
 <h3 align="center">A passionate Full-Stack Developer ⭐ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
