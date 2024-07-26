@@ -5,8 +5,6 @@
 <h1 align="center">Hi, I'm Simi Gracia</h1>
 <h3 align="center">A passionate Full-Stack Developer  </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
-
 <p align="left"> 
 <a href="https://www.linkedin.com/in/simi-gracia-sunil-christopher-47362720a/" target="blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
 </p>
