@@ -11,7 +11,7 @@ A MCA graduate (2025), passionate about software development and technology.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imisgsc&count_private=true&show_icons=true&theme=radical)
 
 ## Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imisgsc&theme=react-dark&bg_color=20232a&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imisgsc&bg_color=0d1117&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)
 
 ## Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imisgsc&theme=radical)
@@ -31,6 +31,6 @@ A MCA graduate (2025), passionate about software development and technology.
 ## Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=imisgsc.imisgsc)
+![Visitors](https://komarev.com/ghpvc/?username=imisgsc&label=Profile%20Views&color=blue&style=flat)
 
 
