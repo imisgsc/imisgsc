@@ -1,6 +1,4 @@
-# Hi there 👋
-
-I'm Simi Gracia Sunil Christopher, an MCA graduate (2025), passionate about software development and technology.
+# Hi there I'm Simi Gracia Sunil Christopher, an MCA graduate (2025), passionate about software development and technology.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat)
 
