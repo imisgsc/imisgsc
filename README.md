@@ -10,8 +10,14 @@ A MCA graduate (2025), passionate about software development and technology.
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imisgsc&count_private=true&show_icons=true&theme=radical)
 
+## Contribution Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imisgsc&theme=react-dark&bg_color=20232a&hide_border=true)
+
 ## Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imisgsc&theme=radical)
+
+## GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=imisgsc&theme=radical&no-frame=true&margin-w=15)
 
 ## Languages I Know:
 ![Languages](https://img.shields.io/badge/Languages-C++%20|%20Python%20|%20Java%20|%20JavaScript-green)
@@ -21,5 +27,10 @@ A MCA graduate (2025), passionate about software development and technology.
 
 ## Total Commits:
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=imisgsc&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=radical)
+
+## Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=imisgsc.imisgsc)
 
 
