@@ -2,7 +2,7 @@
 
 A MCA graduate (2025), passionate about software development and technology.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=imisgsc&label=Profile%20Views&color=blue&style=flat)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simi-gracia-sunil-christopher-47362720a/)
@@ -28,6 +28,5 @@ A MCA graduate (2025), passionate about software development and technology.
 ## Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Visitors](https://komarev.com/ghpvc/?username=imisgsc&label=Profile%20Views&color=blue&style=flat)
 
 
