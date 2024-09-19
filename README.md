@@ -25,9 +25,6 @@ A MCA graduate (2025), passionate about software development and technology.
 ## Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imisgsc&layout=compact&theme=radical)
 
-## Total Commits:
-![Total Commits](https://github-readme-stats.vercel.app/api?username=imisgsc&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=radical)
-
 ## Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
